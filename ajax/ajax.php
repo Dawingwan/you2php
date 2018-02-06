@@ -190,9 +190,9 @@ ini_set('error_log', dirname(__FILE__) . '/error_log.txt');
     case 'DMCA':
         echo '<div class="font-weight-bold h6 pb-1">DMCA及免责声明</div>';
         echo '<h6><b>DMCA：</b><h6>';
-        echo '<p class="h6" style="line-height: 1.7">This site video content from the Internet.<br>
-If inadvertently violate your copyright.<br>
-Send copyright complaints to '.EMAIL.'! We will response within 48 hours!<br></p>';
+        echo '<p class="h6" style="line-height: 1.7">This site video content from the Internet. It is a mirror site of Youtube. The purpose is to make Youtube easier for people around the world who cant access to Youtube find information. It is for educational and learning.
+If there is any inadvertently violate your copyright.<br>
+Please send copyright complaints to '.EMAIL.'! We will response within 48 hours!<br></p>';
 echo '<h6 class="pt-3"><b>用户须知：</b><h6>';
         echo '<p class="h6" style="line-height: 1.7">请您仔细阅读以下条款，如果您对本协议的任何条款表示异议，您可以选择不使用本网站。一旦您浏览本站，无论您是有意浏览还是无意浏览，均意味着您完全接受本协议项下的全部条款。<br>
         1.鉴于本站以非人工检索方式、您请求的内容版权归第三方站点内容，您可能从该第本站网页上获得资讯及享用服务，但本站不对其内容合法性负责，亦不承担任何法律责任。<br>
